@@ -1,0 +1,477 @@
+{
+	"package": {
+		"items": [
+			{
+				"itemIndex": 1,
+				"quantity": 1,
+				"price": 38900,
+				"description": null,
+				"unitMultiplier": 0
+			}
+		],
+		"courier": "Rastreamento Electrolux",
+		"invoiceNumber": "000264034",
+		"invoiceValue": 42716,
+		"invoiceUrl": "",
+		"issuanceDate": "2020-04-09T03:00:00+00:00",
+		"trackingNumber": "000264034#13393106",
+		"invoiceKey": "35200413986197000202550020002640341116378881",
+		"trackingUrl": "https://meu.electrolux.com.br/tracking?tracking=13393106",
+		"embeddedInvoice": "",
+		"type": "Output",
+		"courierStatus": null,
+		"cfop": null,
+		"restitutions": {},
+		"volumes": 0
+	},
+	"subjectItemAttachment": {
+		"item": "Cooktop a Gás 4 Boca...",
+		"totalItems": 1
+	},
+	"cancellationReason": null,
+	"items": [
+		{
+			"additionalInfo": {
+				"dimension": {
+					"cubicweight": 11.2308,
+					"height": 19,
+					"length": 48.5,
+					"weight": 8450,
+					"width": 58.5
+				},
+				"categoriesIds": "/4/7/180/",
+				"productClusterId": "135,137,142,171,200,232",
+				"commercialConditionId": "1",
+				"brandName": "Electrolux",
+				"brandId": "2000004",
+				"offeringInfo": null,
+				"offeringType": null,
+				"offeringTypeId": null
+			},
+			"sellerSku": "2004536",
+			"priceTable": null,
+			"priceValidUntil": "2021-04-07T20:06:15.729887Z",
+			"callCenterOperator": null,
+			"commission": 250,
+			"freightCommission": 0,
+			"taxCode": null,
+			"costPrice": null,
+			"uniqueId": "AC461AA6FE6A45CDBB93483DA70F9AB1",
+			"id": "64685",
+			"productId": "49620",
+			"refId": "926564834",
+			"ean": "7909569244067",
+			"name": "Cooktop a Gás 4 Bocas  KE4TP  Electrolux Bivolt",
+			"skuName": "Bivolt",
+			"modalType": null,
+			"parentItemIndex": null,
+			"parentAssemblyBinding": null,
+			"assemblies": [],
+			"tax": 0,
+			"priceDefinitions": null,
+			"price": 38900,
+			"listPrice": 64900,
+			"manualPrice": null,
+			"sellingPrice": 38900,
+			"orderRewardStatus": null,
+			"rewardValue": 0,
+			"isGift": false,
+			"preSaleDate": null,
+			"productCategoryIds": "/4/7/180/",
+			"productCategories": {
+				"4": "Eletrodomésticos",
+				"7": "Cozinha",
+				"180": "Cooktops"
+			},
+			"quantity": 1,
+			"seller": "Electrolux",
+			"sellerChain": [
+				"Electrolux"
+			],
+			"imageUrl": "http://htg.vteximg.com.br/arquivos/ids/317611-85-85/image-b5fea226bf3f4d0da1727f2795c8a458.jpg?v=637141118823470000",
+			"detailUrl": "/cooktop-a-gas-4-bocas--ke4tp--electrolux-49620/p",
+			"components": [],
+			"bundleItems": [],
+			"attachments": [],
+			"attachmentOfferings": [],
+			"offerings": [],
+			"priceTags": [],
+			"availability": "available",
+			"measurementUnit": "un",
+			"unitMultiplier": 1
+		}
+	],
+	"sellers": [
+		{
+			"subSellerId": "1",
+			"fulfillmentEndpoint": "http://fulfillment.vtexcommerce.com.br/api/fulfillment?an=electrolux&affiliateid=HHT&sc=3",
+			"id": "Electrolux",
+			"name": "Electrolux",
+			"logo": ""
+		}
+	],
+	"giftRegistryData": null,
+	"receiptData": null,
+	"contextData": null,
+	"marketPlaceOrderId": "",
+	"marketPlaceOrderGroup": null,
+	"marketplaceServicesEndpoint": null,
+	"orderFormId": "34ce7baf98484dfb85b6f3fca595da65",
+	"sequence": "517991",
+	"affiliateId": "",
+	"status": "",
+	"callCenterOperator": "",
+	"userProfileId": "6fd4e76a-6b7f-43a1-acc3-776d1d1f6ae0",
+	"hostName": "htg",
+	"creationVersion": null,
+	"creationEnvironment": null,
+	"lastChangeVersion": null,
+	"workflowInstanceId": null,
+	"marketplacePaymentValue": null,
+	"orderId": "1023480593359-01",
+	"orderGroup": "1023480593359",
+	"state": "payment-approved",
+	"isCheckedIn": false,
+	"sellerOrderId": "HHT-1023480593359-01",
+	"storeId": null,
+	"checkedInPickupPointId": null,
+	"value": 141898,
+	"totals": [
+		{
+			"id": "Items",
+			"name": "Total dos Itens",
+			"value": 133800
+		},
+		{
+			"id": "Discounts",
+			"name": "Total dos Descontos",
+			"value": 0
+		},
+		{
+			"id": "Shipping",
+			"name": "Total do Frete",
+			"value": 8098
+		},
+		{
+			"id": "Tax",
+			"name": "Total da Taxa",
+			"value": 0
+		}
+	],
+	"clientProfileData": {
+		"email": "e217c3c93202435f96db942e4247893b@ct.vtex.com.br",
+		"firstName": "Gustavo",
+		"lastName": "De Lara Anselmo",
+		"document": "40622448889",
+		"documentType": "cpf",
+		"phone": "41997819614",
+		"corporateName": null,
+		"tradeName": null,
+		"corporateDocument": null,
+		"stateInscription": null,
+		"corporatePhone": null,
+		"isCorporate": false,
+		"profileCompleteOnLoading": false,
+		"profileErrorOnLoading": false,
+		"customerClass": null
+	},
+	"ratesAndBenefitsData": {
+		"rateAndBenefitsIdentifiers": [],
+		"teaser": []
+	},
+	"shippingData": {
+		"address": {
+			"addressType": "residential",
+			"receiverName": "Gustavo De Lara Anselmo",
+			"addressId": "4758869950287",
+			"isDisposable": false,
+			"postalCode": "83025-570",
+			"city": "São José dos Pinhais",
+			"state": "PR",
+			"country": "BRA",
+			"street": "Rua Hugo Zen",
+			"number": "300",
+			"neighborhood": "Colônia Rio Grande",
+			"complement": "Bloco 17 Apto 402, REF: condomínio Lê Village Royale, próx ao posto Barão.",
+			"reference": null,
+			"geoCoordinates": [
+				-49.213623046875,
+				-25.556140899658203
+			]
+		},
+		"logisticsInfo": [
+			{
+				"itemIndex": 0,
+				"selectedSla": "1.Convencional",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "4758869950287",
+				"slas": [
+					{
+						"id": "1.Convencional",
+						"deliveryChannel": "delivery",
+						"name": "1.Convencional",
+						"deliveryIds": [
+							{
+								"courierId": "3205952",
+								"warehouseId": "1_1",
+								"dockId": "1dcdfa3",
+								"courierName": "Venkon",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "6bd",
+						"shippingEstimateDate": "2020-04-15T18:12:04.0673043Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 4282,
+						"listPrice": 4282,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "45071",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			},
+			{
+				"itemIndex": 1,
+				"selectedSla": "1.Convencional",
+				"selectedDeliveryChannel": "delivery",
+				"addressId": "4758869950287",
+				"slas": [
+					{
+						"id": "1.Convencional",
+						"deliveryChannel": "delivery",
+						"name": "1.Convencional",
+						"deliveryIds": [
+							{
+								"courierId": "1037835",
+								"warehouseId": "1_2",
+								"dockId": "16d3214",
+								"courierName": "SAV_Rodonaves",
+								"quantity": 1,
+								"totalListPrice": 0
+							}
+						],
+						"shippingEstimate": "6bd",
+						"shippingEstimateDate": "2020-04-17T18:12:04.0673043Z",
+						"lockTTL": "10d",
+						"availableDeliveryWindows": [],
+						"deliveryWindow": null,
+						"price": 3816,
+						"listPrice": 3816,
+						"tax": 0,
+						"pickupStoreInfo": {
+							"isPickupStore": false,
+							"friendlyName": null,
+							"address": null,
+							"additionalInfo": null,
+							"dockId": null
+						},
+						"pickupPointId": null,
+						"pickupDistance": null,
+						"polygonName": null
+					}
+				],
+				"shipsTo": [
+					"BRA"
+				],
+				"itemId": "64685",
+				"deliveryChannels": [
+					{
+						"id": "delivery",
+						"stockBalance": 0
+					}
+				]
+			}
+		],
+		"selectedAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "Gustavo De Lara Anselmo",
+				"addressId": "4758869950287",
+				"isDisposable": false,
+				"postalCode": "83025-570",
+				"city": "São José dos Pinhais",
+				"state": "PR",
+				"country": "BRA",
+				"street": "Rua Hugo Zen",
+				"number": "300",
+				"neighborhood": "Colônia Rio Grande",
+				"complement": "Bloco 17 Apto 402, REF: condomínio Lê Village Royale, próx ao posto Barão.",
+				"reference": null,
+				"geoCoordinates": [
+					-49.213623046875,
+					-25.556140899658203
+				]
+			}
+		],
+		"availableAddresses": [
+			{
+				"addressType": "residential",
+				"receiverName": "Gustavo De Lara Anselmo",
+				"addressId": "4758869950287",
+				"isDisposable": false,
+				"postalCode": "83025-570",
+				"city": "São José dos Pinhais",
+				"state": "PR",
+				"country": "BRA",
+				"street": "Rua Hugo Zen",
+				"number": "300",
+				"neighborhood": "Colônia Rio Grande",
+				"complement": "Bloco 17 Apto 402, REF: condomínio Lê Village Royale, próx ao posto Barão.",
+				"reference": null,
+				"geoCoordinates": [
+					-49.213623046875,
+					-25.556140899658203
+				]
+			}
+		],
+		"pickupPoints": []
+	},
+	"paymentData": {
+		"giftCards": [],
+		"transactions": [
+			{
+				"isActive": true,
+				"transactionId": "35EE657C87B047418ECA9CF968F7CB1F",
+				"merchantName": "ELECTROLUX",
+				"payments": [
+					{
+						"id": "2E3E9CEF2F7E42DE9E4811353D226AB9",
+						"paymentSystem": "2",
+						"paymentSystemName": "Visa",
+						"value": 141898,
+						"installments": 12,
+						"connectorResponses": {
+							"orderKey": "08d726ce-cc50-4c2f-85d8-09bc7d057944",
+							"ReturnCode": "00",
+							"Message": null,
+							"authId": "410992",
+							"transactionIdentifier": "11052004071654564599",
+							"tid": "11052004071654564599",
+							"nsu": "18544867",
+							"authorizationCode": "410992",
+							"acquirer": "eRede"
+						},
+						"referenceValue": 141898,
+						"cardHolder": null,
+						"cardNumber": null,
+						"firstDigits": "485464",
+						"lastDigits": "2700",
+						"cvv2": null,
+						"expireMonth": null,
+						"expireYear": null,
+						"url": null,
+						"koinUrl": null,
+						"tid": "08d726ce-cc50-4c2f-85d8-09bc7d057944",
+						"redemptionCode": null,
+						"giftCardId": null,
+						"giftCardProvider": null,
+						"giftCardAsDiscount": null,
+						"group": "creditCard",
+						"dueDate": null,
+						"accountId": "F5C389AEEA0740BA97BE5C7AE3E6D70E",
+						"parentAccountId": "119F391EED5F407F83D5F4E2BC23FCCB",
+						"bankIssuedInvoiceIdentificationNumber": null,
+						"bankIssuedInvoiceIdentificationNumberFormatted": null,
+						"bankIssuedInvoiceBarCodeNumber": null,
+						"bankIssuedInvoiceBarCodeType": null
+					}
+				],
+				"sharedTransaction": false
+			}
+		]
+	},
+	"clientPreferencesData": {
+		"locale": "pt-BR",
+		"optinNewsLetter": true
+	},
+	"commercialConditionData": null,
+	"marketingData": {
+		"utmSource": "",
+		"utmMedium": "",
+		"utmCampaign": "",
+		"utmipage": "",
+		"utmiPart": "",
+		"utmiCampaign": "",
+		"coupon": null,
+		"marketingTags": []
+	},
+	"storePreferencesData": {
+		"countryCode": "BRA",
+		"saveUserData": false,
+		"timeZone": "E. South America Standard Time",
+		"currencyCode": "BRL",
+		"currencyLocale": 1046,
+		"currencySymbol": "R$",
+		"currencyFormatInfo": {
+			"currencyDecimalDigits": 2,
+			"currencyDecimalSeparator": ",",
+			"currencyGroupSeparator": ".",
+			"currencyGroupSize": 3,
+			"startsWithCurrencySymbol": true
+		}
+	},
+	"openTextField": null,
+	"invoiceData": null,
+	"itemMetadata": null,
+	"taxData": null,
+	"customData": null,
+	"hooksData": null,
+	"changeData": null,
+	"subscriptionData": null,
+	"salesChannel": "1",
+	"followUpEmail": "290dd9a203fe4975b4e97039cf7187a5@ct.vtex.com.br",
+	"creationDate": "2020-04-07T20:09:58.0325949Z",
+	"lastChange": "2020-04-09T12:18:26.0108176Z",
+	"timeZoneCreationDate": "2020-04-07T17:09:58.0325949",
+	"timeZoneLastChange": "2020-04-09T09:18:26.0108176",
+	"isCompleted": true,
+	"merchantName": "ELECTROLUX",
+	"userType": "",
+	"roundingError": 0,
+	"allowEdition": false,
+	"allowCancellation": false,
+	"isUserDataVisible": false,
+	"allowChangeSeller": false,
+	"_accountInfo": {
+		"MainAccountName": "htg",
+		"AccountName": "htg",
+		"Cnpj": "15719666842",
+		"Id": "6e04250e-e32a-4204-8b37-55470c696db0",
+		"IsActive": true,
+		"IsOperating": true,
+		"OperationDate": "2017-07-09T23:21:03",
+		"CompanyName": "htg",
+		"TradingName": "htg",
+		"City": "SÃO PAULO",
+		"Complement": null,
+		"Country": "Brasil",
+		"State": "SP",
+		"Number": "560",
+		"PostalCode": "05404-001",
+		"Licences": null,
+		"ParentAccountName": null,
+		"InactivationDate": null,
+		"Platform": "vtex"
+	}
+}
